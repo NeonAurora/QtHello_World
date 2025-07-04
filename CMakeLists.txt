@@ -25,7 +25,7 @@ qt_add_qml_module(appHelloWorld
 qt_add_resources(appHelloWorld "app_resources"
     PREFIX "/"
     FILES
-        resources/icons/railway-icon.png
+        resources/icons/railway-icon.ico
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

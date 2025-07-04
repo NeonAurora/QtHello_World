@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
     app.setApplicationVersion("1.0.0");
     app.setOrganizationName("RailFlux");
 
-    app.setWindowIcon(QIcon(":/resources/icons/railway-icon.png"));
+    app.setWindowIcon(QIcon(":/resources/icons/railway-icon.ico"));
 
     QQmlApplicationEngine engine;
 
