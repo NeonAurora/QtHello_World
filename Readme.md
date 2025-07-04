@@ -28,6 +28,14 @@ A professional, safety-critical Railway Human-Machine Interface (HMI) system bui
 
 ---
 
+## Screenshots
+
+![Main Control Panel](https://github.com/NeonAurora/QtHello_World/blob/main/resources/QtHelloWorld.png)
+*Main control panel showing real-time signal states.*
+
+![Train Position Tracking](https://github.com/NeonAurora/QtHello_World/blob/main/resources/QtHelloWorld.png)
+*Train position tracking interface with live updates.*
+
 ## Technology Stack
 
 | Component | Technology | Version | Purpose |
